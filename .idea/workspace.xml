@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60861a9c-25f4-4394-954f-f5551d593979" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/eticaret.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eticaret/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eticaret/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eticaret/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/eticaret/wsgi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/admin.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/apps.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0001_initial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0002_auto_20180328_1121.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0003_auto_20180328_1209.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/migrations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/products/views.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/bootstrap-responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/bootstrap-responsive.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/css/font-awesome-ie7.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/css/font-awesome-ie7.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/font/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/font/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/font/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/font/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/font/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/bootstrap.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/core.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/extras.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/font-awesome-ie7.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/font-awesome.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/icons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/path.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_bootstrap.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_core.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_extras.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_icons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_path.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/font-awesome-ie7.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-awesome/scss/font-awesome.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/ico/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ax.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/b.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/bootstrap-ecommerce-templates.PNG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/bootstrap-ring.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/bootstrap-template.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/bootstrap-templates.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/bootstrap_free-ecommerce.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/bootstrappage_shop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/c.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/carousel1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/carousel3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/d.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/disc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/e.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/f.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/g.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/h.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/i.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/j.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo-bootstrap-shoping-cart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/maestro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/mc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/new.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/paypal.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/pp.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/s.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/shop-cart.PNG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/shopping-cart-template.PNG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/white_leather.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.easing-1.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrollTo-1.4.3.1-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/shop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/dist/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/admin.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/apps.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/migrations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/users/views.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="79" lean-forward="false" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="141" column="20" lean-forward="true" selection-start-line="141" selection-start-column="20" selection-end-line="141" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/products/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eticaret/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eticaret/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="e#697#729#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eticaret/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assets/</find>
+      <find>assets</find>
+      <find>static</find>
+      <find>Total amo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/products/admin.py" />
+        <option value="$PROJECT_DIR$/users/models.py" />
+        <option value="$PROJECT_DIR$/users/admin.py" />
+        <option value="$PROJECT_DIR$/eticaret/urls.py" />
+        <option value="$PROJECT_DIR$/eticaret/settings.py" />
+        <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/products/views.py" />
+        <option value="$PROJECT_DIR$/products/models.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="125" />
+    <option name="y" value="23" />
+    <option name="width" value="1263" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eticaret" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eticaret" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eticaret" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eticaret" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eticaret" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60861a9c-25f4-4394-954f-f5551d593979" name="Default" comment="" />
+      <created>1522222381268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522222381268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="125" y="23" width="1263" height="714" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2742857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36254296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34536082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30352303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eticaret/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="79" lean-forward="false" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eticaret/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eticaret/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#697#729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1453">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="141" column="20" lean-forward="true" selection-start-line="141" selection-start-column="20" selection-end-line="141" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
